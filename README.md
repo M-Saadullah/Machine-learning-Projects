@@ -1,7 +1,8 @@
-# Machine-learning-Projects
-I got Machine learning project "Human Activity Recognition"
-I have sensor's data, collected by attaching various sensors to human body, after applying various Preprocessing techniques this data is refined and then Different Models are used Like
-Naive Bayes for Binary Classification
-Logistic Reggressiong for Binary Classificaion
-Neural Network (Multiclass Classification) for 3 Activities
-Neural Network (Multiclass Classification) for 5 Activities
+Project Title: Human Activity Recognition Using Machine Learning
+
+This project focuses on Human Activity Recognition (HAR) using sensor data collected from multiple sensors attached to the human body. The raw data undergoes extensive preprocessing to remove noise, handle missing values, and enhance feature extraction. Various machine learning models are employed to classify human activities effectively:
+
+Naïve Bayes for binary classification
+Logistic Regression for binary classification
+Neural Networks for multiclass classification (distinguishing between three activities)
+Neural Networks for multiclass classification (distinguishing between five activities)
